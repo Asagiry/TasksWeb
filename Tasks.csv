@@ -1,0 +1,7 @@
+Id,Title,RegistrationDateTime,StartDateTime,EndDateTime,Importance,Urgency,Percentage,Description,Author,Category
+8b2a4482-35c8-411e-aab9-6ce490b3bea1,Задача № 1,2024-01-01T00:00,2024-01-01T00:00,,очень низкий,false,100,задача,de42a00f-7f43-4d10-808d-bee47fdeef49,10c50d8a-fc9e-45ba-b303-7a623f4c699b
+b0d29fa9-cfd4-41e2-9753-f9b5f40e9811,Задача № 3,2024-01-03T00:00,2024-01-03T00:00,2024-01-04T00:00,критический,true,90,задача,de42a00f-7f43-4d10-808d-bee47fdeef49,10c50d8a-fc9e-45ba-b303-7a623f4c699b
+a89723c3-0bfe-41b1-b7b9-db67a8c4708a,Задача № 4,2024-01-04T00:00,2024-01-04T00:00,,очень низкий,false,0,задача,de42a00f-7f43-4d10-808d-bee47fdeef49,10c50d8a-fc9e-45ba-b303-7a623f4c699b
+5bdb77b9-3a66-4217-b6fe-2eaaf9e54200,Задача № 5,2024-01-05T00:00,2024-01-05T00:00,,высокий,false,70,задача,de42a00f-7f43-4d10-808d-bee47fdeef49,10c50d8a-fc9e-45ba-b303-7a623f4c699b
+2aeaf2b4-ad18-4686-a69c-9d9baa34fe69,Задача № 6,2024-01-06T00:00,2024-01-06T00:00,,очень низкий,true,5,задача,de42a00f-7f43-4d10-808d-bee47fdeef49,e4d725a7-cfc1-49f1-afd8-1f48e177f429
+ec247f48-f86c-45c8-ab2f-7510e4640052,Задача №2,2024-01-01T00:00,2024-10-01T00:00,,очень низкий,true,90,реализовать приложение для лабораторной № 3,de42a00f-7f43-4d10-808d-bee47fdeef49,e4d725a7-cfc1-49f1-afd8-1f48e177f429
